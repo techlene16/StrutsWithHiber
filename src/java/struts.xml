@@ -14,4 +14,8 @@
             <result name="add" type="redirect-action">reg</result>
         </action>
     </package>
-</struts>
+</struts>nikita
+
+
+
+
